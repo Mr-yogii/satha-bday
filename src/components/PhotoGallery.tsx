@@ -2,7 +2,7 @@ import React from 'react';
 
 const PHOTOS = [
   {
-    url: "/pic1.jpg",
+    url: "images/pic4.jpg",
     caption: "Last year's birthday"
   },
   {
