@@ -10,7 +10,7 @@ import { SurpriseBalloons } from './components/SurpriseBalloons';
 const CRUSH_NAME = "Satha...";
 
 const SONGS = [
-  { title: "amazing", url: "/Kannana-Kanne.mp3" },
+  { title: "amazing", url: "/Oh My Kadavule.mp3" },
 ];
 
 const QUOTES = [
